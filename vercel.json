@@ -13,8 +13,9 @@
     "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "true",
-    "APP_URL": "https://your.url.from.vercel.app",
-    "APP_KEY": "=base64:KppwR7LpaskiVgtnvhAQYdL+E/oFSb3KpK3zV443awg=",
+    "APP_URL": "https://vercel.com/aymans-projects-d0eae76d",
+    "APP_KEY":"base64:KppwR7LpaskiVgtnvhAQYdL+E/oFSb3KpK3zV443awg=",
+
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
     "APP_PACKAGES_CACHE": "/tmp/packages.php",
